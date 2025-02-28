@@ -1,5 +1,10 @@
 # Bugdom-vita changelog
 
+- **1.3.4-vita.1 (March 1, 2025)**
+    - Merge version 1.3.4 from upstream
+      + Various bugfixes, most notably that standing on moving tiles is now stable.
+    - Switch to modern version of VitaGL
+
 - **1.3.2-vita.2 (August 7, 2022)**
     - Get rid of BGRA-RGBA pixel conversion code in Bugdom and Pomme, moving it to a vitaGL fork. Future maintenance should be much easier.
     - Fix 1-byte offset bug making textures look grainy.

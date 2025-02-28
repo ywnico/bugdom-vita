@@ -43,7 +43,7 @@ if (VITA)
   #set(VITA_VERSION  GAME_VERSION)
 
   # Version string to show in the game about page
-  set(VITA_LONGVERSION "1.3.2-vita.2")
+  set(VITA_LONGVERSION "1.3.4-vita.1")
 endif()
 
 project(${GAME_TARGET}
