@@ -2,7 +2,7 @@
 
 This is a port of Pangea Software's **Bugdom** to PlayStation Vita, based on the [modern version of Bugdom](https://github.com/jorio/bugdom) written by Iliyas Jorio. For more information on the history of Bugdom and [@jorio](https://github.com/jorio)'s rewrite, see https://github.com/jorio/bugdom.
 
-![Bugdom Screenshot](docs/screenshot.webp)
+![Bugdom Screenshot](docs/screenshot.png)
 
 ## Installation
 
